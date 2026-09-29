@@ -1,17 +1,12 @@
-import { APP_TITLE } from "@/lib/app-config";
+import { TrialTwinDashboard } from "@/components/trialsphere/TrialSphereShell";
 
 export function meta() {
   return [
-    { title: APP_TITLE },
-    { name: "description", content: `${APP_TITLE} app canvas` },
+    { title: "Trial operations · AIIA TrialSphere" },
+    { name: "description", content: "Synthetic Ayurveda clinical-trial operations and digital twin prototype." },
   ];
 }
 
 export default function HomeRoute() {
-  return (
-    <div className="flex h-full min-h-0 flex-1 items-center justify-center bg-background">
-      {/* TODO: FUSION_GENERATION_APP_PLACEHOLDER replace everything here with the actual app! */}
-      <p className="text-sm text-muted-foreground">Your app here</p>
-    </div>
-  );
+  return <TrialTwinDashboard />;
 }

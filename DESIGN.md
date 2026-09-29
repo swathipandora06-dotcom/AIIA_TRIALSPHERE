@@ -38,14 +38,14 @@ visual direction — read and preserve them on every subsequent build; do not
 re-derive a new direction. The first UI pass must fill these fields in as
 part of that build, not leave them as an empty template.
 
-- Product mode: `operate` | `read` | `persuade` | `experience`
-- Audience and cadence:
-- Visual world (name + the feeling it creates):
-- Palette family + neutral undertone:
-- Type treatment:
-- Composition:
-- Shape language:
-- Anti-references (defaults this app must not drift toward):
+- Product mode: `operate` for trial teams; `read` for the public registry.
+- Audience and cadence: Ayurveda clinical investigators, site staff, safety and ethics reviewers, and public-trial readers; daily operational use with occasional public lookup.
+- Visual world (name + the feeling it creates): Clinical observatory — calm, legible public-health infrastructure with a discreet botanical note.
+- Palette family + neutral undertone: Pine and teal accents over a cool white, pale-sage and ink neutral system.
+- Type treatment: Sans-first Inter with compact uppercase metadata and assertive, restrained headings.
+- Composition: Shared dark-green navigation above a focused operational dashboard and a scannable registry list.
+- Shape language: Quiet corners, fine rules, precise graph nodes, and soft utility surfaces.
+- Anti-references (defaults this app must not drift toward): Generic student dashboard, purple AI gradients, decorative leaf wallpaper, dense KPI card grids, official-government impersonation, and unlabeled real-data claims.
 
 ## Agent-native is structural, not visual
 
